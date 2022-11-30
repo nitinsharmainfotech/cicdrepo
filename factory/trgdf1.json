@@ -1,0 +1,9 @@
+{
+	"name": "trgdf1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bd8a732f-ecb7-46ed-b03c-67b7a25b57b6",
+		"tenantId": "c22d82c5-94f9-4d04-a01a-ecff048bf9d9"
+	}
+}
